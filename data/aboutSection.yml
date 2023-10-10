@@ -1,0 +1,20 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  Experience a variety of beauty services and expand your network within the beauty industry and beyond through our offerings.
+
+content: >
+  ### I specialize in creating and enhancing natural looks that leave you feeling effortlessly beautiful.
+
+  
+
+  I have a passion for the beauty industry, where I thrive in enhancing natural beauty and crafting exceptional aesthetic experiences. With a commitment to finding innovative solutions and creating stunning visuals, I've been dedicated to this field for years.
+
+button1Name: Hire me ❤️
+button2Name: Portfolio
+button1Target: contact
+button2Target: https://www.instagram.com/browerybychean
+image: images/about/about-img.png

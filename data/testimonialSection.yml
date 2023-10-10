@@ -1,0 +1,23 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What People Say About Me?
+
+testimonial:
+  - name: Cute customer 1
+    comment: 真的很好看那个眉毛 爱了
+    time: Jan 20, 2020
+    star: 5
+  - name: Pretty customer 2
+    comment: 谢谢你帮我弄的眉毛，我很喜欢
+    time: Jan 16, 2021
+    star: 4
+  - name: Datin Customer 3
+    comment: 原来我的黑圆圈那么深！哈哈哈哈 不过你帮我弄的眉毛我真的很喜欢
+    time: Mar 08, 2022
+    star: 5
+  - name: Super Model Customer 4
+    comment: Looks natural the colour not too dark
+    time: Mar 08, 2023
+    star: 5

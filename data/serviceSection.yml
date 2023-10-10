@@ -1,0 +1,38 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## My Services
+
+  Indulge in a diverse range of beauty services and broaden your connections within various facets of the beauty industry.
+service:
+  - content: >
+      #### Eyebrow Microblading 
+
+      Experience the art of semi-permanent eyebrow enhancement. Our skilled technicians will create beautifully shaped and natural-looking eyebrows that perfectly frame your face.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### SMP (Scalp Micropigmentation)
+
+      Restore your hairline and regain your confidence with our Scalp Micropigmentation services. Say goodbye to thinning hair and embrace a fuller, more youthful appearance.
+    image: images/service/web.svg
+  - content: >
+      #### Non-invasive Laser
+
+      Our advanced laser treatments can address various skincare concerns, including acne scars, pigmentation, and fine lines, leaving your skin looking rejuvenated and refreshed.
+    image: images/service/creative.svg
+  - content: >
+      #### Lash Lift
+
+      Elevate your natural lashes with our Lash Lift service. Enjoy curled, fuller-looking lashes that require minimal maintenance.
+    image: images/service/branding.svg
+  - content: >
+      #### Invisible Eyeliner
+
+      Enhance your eyes with our Invisible Eyeliner technique. Achieve a subtle and elegant look that enhances your natural beauty.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Hairline Restoration
+
+      Whether you're dealing with receding hairlines or thinning hair, our hairline restoration services can help you achieve a fuller and more youthful appearance.
+    image: images/service/web.svg
